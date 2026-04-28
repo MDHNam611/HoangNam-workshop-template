@@ -1,4 +1,4 @@
-baseURL = "https://MDHNam611.github.io/HoangNam-workshop-template/"
+baseURL = "https://mdhnam611.github.io/HoangNam-workshop-template/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "vi"
