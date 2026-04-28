@@ -25,7 +25,7 @@ chapter: false
 
 &emsp; **Duration:** 17/04/2026 - 10/07/2026
 
-![Avatar](images/anh-mat.png)
+![Avatar](images/anh-mat.jpg)
 
 ### Report Content
 1. [Worklog](1-Worklog/)
