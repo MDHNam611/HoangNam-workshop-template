@@ -1,7 +1,7 @@
 baseURL = "https://mdhnam611.github.io/HoangNam-workshop-template/"
 relativeURLs = false
 canonifyURLs = false
-defaultContentLanguage = "vi"
+defaultContentLanguage = "en"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
@@ -15,7 +15,7 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "workshop"
   # Git hub repo link
   editURL = ""
-  description = "Báo cáo thực tập Cloud/AWS - Sinh viên HUTECH"
+  description = "Cloud/AWS Internship Report - HUTECH Student"
   author = "Mai Đức Hoàng Nam"
   showVisitedLinks = true
   disableBreadcrumb = false
