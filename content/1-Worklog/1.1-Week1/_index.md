@@ -1,57 +1,34 @@
 ---
 title: "Week 1 Worklog"
-date: 2024-01-01
+date: 2026-07-05
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
 ---
-{{% notice warning %}} 
-⚠️ **Note:** The following information is for reference purposes only. Please **do not copy verbatim** for your own report, including this warning.
-{{% /notice %}}
 
 
 ### Week 1 Objectives:
 
-* Connect and get acquainted with members of First Cloud Journey.
-* Understand basic AWS services, how to use the console & CLI.
+* Participate in kick-off events and get acquainted with the AWS community.
+* Create an AWS account, learn about AWS services.
+* Study Module 1 knowledge and complete related labs.
+* Join and get acquainted with the project team.
 
 ### Tasks to be carried out this week:
-| Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Get acquainted with FCJ members <br> - Read and take note of internship unit rules and regulations                                                                                                   | 08/11/2025 | 08/11/2025      |
-| 3   | - Learn about AWS and its types of services <br>&emsp; + Compute <br>&emsp; + Storage <br>&emsp; + Networking <br>&emsp; + Database <br>&emsp; + ... <br>                                              | 08/12/2025 | 08/12/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Create AWS Free Tier account <br> - Learn about AWS Console & AWS CLI <br> - **Practice:** <br>&emsp; + Create AWS account <br>&emsp; + Install & configure AWS CLI <br> &emsp; + How to use AWS CLI | 08/13/2025 | 08/13/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Learn basic EC2: <br>&emsp; + Instance types <br>&emsp; + AMI <br>&emsp; + EBS <br>&emsp; + ... <br> - SSH connection methods to EC2 <br> - Learn about Elastic IP   <br>                            | 08/14/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - **Practice:** <br>&emsp; + Launch an EC2 instance <br>&emsp; + Connect via SSH <br>&emsp; + Attach an EBS volume                                                                                     | 08/15/2025 | 08/15/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
+| Day | Task | Start Date | Completion Date | Reference Material |
+| :---: | :--- | :---: | :---: | :--- |
+| **Mon** | - Create an AWS account to get $100 credits. | 20/04/2026 | 20/04/2026 | [Strategy to get full $200 credits](https://000001.awsstudygroup.com/vi/3-chi%E1%BA%BFn-l%C6%B0%E1%BB%A3c-nh%E1%BA%ADn-%C4%91%E1%BB%A7-200-credit/) |
+| **Tue** | - Complete 5 labs to receive $100 credits. | 21/04/2026 | 21/04/2026 | Detailed guide on 5 "money-making" missions |
+| **Wed** | - Search for team members (found 3 members).<br>- Watch Module 1 videos on YouTube. | 22/04/2026 | 22/04/2026 | [Module 01-01 - Điện Toán Đám Mây Là Gì ?](https://youtu.be/HxYZAK1coOI?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| **Thu** | - Search for more team members (total members: 4).<br>- Practice Lab01-03 - Create admin group and admin user. | 23/04/2026 | 23/04/2026 | [Module 01-Lab01-03 - Create admin group and admin user](https://youtu.be/b9pK1oG534Q?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| **Fri** | - Watch videos and practice Lab07-01 - Create Budget by Template. | 24/04/2026 | 24/04/2026 | [Module 01-Lab07-01 - Create Budget by Template](https://youtu.be/_a09nLVw6Sg?list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i) |
+| **Sat** | - Watch practice videos for other related labs. | 25/04/2026 | 25/04/2026 |  |
 
 ### Week 1 Achievements:
 
-* Understood what AWS is and mastered the basic service groups: 
-  * Compute
-  * Storage
-  * Networking 
-  * Database
-  * ...
-
-* Successfully created and configured an AWS Free Tier account.
-
-* Became familiar with the AWS Management Console and learned how to find, access, and use services via the web interface.
-
-* Installed and configured AWS CLI on the computer, including:
-  * Access Key
-  * Secret Key
-  * Default Region
-  * ...
-
-* Used AWS CLI to perform basic operations such as:
-
-  * Check account & configuration information
-  * Retrieve the list of regions
-  * View EC2 service
-  * Create and manage key pairs
-  * Check information about running services
-  * ...
-
-* Acquired the ability to connect between the web interface and CLI to manage AWS resources in parallel.
-* ...
+* Understood the rules of the AWS internship program.
+* Successfully created an AWS account and claimed $100 credits.
+* Successfully completed the required 5 labs to receive an additional $100 credits.
+* Completed hands-on practical exercises: Lab01-03 and Lab07-01.
+* Formed a project team with 4 members.
