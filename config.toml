@@ -1,5 +1,4 @@
 baseURL = "https://mdhnam611.github.io/HoangNam-workshop-template/"
-publishDir = "docs"
 relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
