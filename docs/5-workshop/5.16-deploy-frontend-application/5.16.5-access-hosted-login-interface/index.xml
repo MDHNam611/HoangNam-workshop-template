@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Access Hosted Login Interface on Internship Report</title>
-    <link>http://localhost:1313/HoangNam-workshop-template/5-workshop/5.16-deploy-frontend-application/5.16.5-access-hosted-login-interface/</link>
+    <link>https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.16-deploy-frontend-application/5.16.5-access-hosted-login-interface/</link>
     <description>Recent content in Access Hosted Login Interface on Internship Report</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/HoangNam-workshop-template/5-workshop/5.16-deploy-frontend-application/5.16.5-access-hosted-login-interface/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.16-deploy-frontend-application/5.16.5-access-hosted-login-interface/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

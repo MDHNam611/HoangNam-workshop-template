@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Workshop on Internship Report</title>
-    <link>http://localhost:1313/HoangNam-workshop-template/categories/workshop/</link>
+    <link>https://mdhnam611.github.io/HoangNam-workshop-template/categories/workshop/</link>
     <description>Recent content in Workshop on Internship Report</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 05 Jul 2026 21:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/HoangNam-workshop-template/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mdhnam611.github.io/HoangNam-workshop-template/categories/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5.3. Create Budget and Select Region</title>
-      <link>http://localhost:1313/HoangNam-workshop-template/5-workshop/5.3-create-budget/</link>
+      <link>https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.3-create-budget/</link>
       <pubDate>Sun, 05 Jul 2026 21:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/HoangNam-workshop-template/5-workshop/5.3-create-budget/</guid>
-      <description>&lt;p&gt;AWS Budgets is utilized to control costs and prevent projects from over-running resources, which helps avoid unexpected charges.&lt;/p&gt;&#xA;&lt;p&gt;In this section, we will perform two main steps:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-access-aws-budgets&#34;&gt;1. &lt;a href=&#34;http://localhost:1313/HoangNam-workshop-template/5-workshop/5.3-create-budget/5.3.1-access-budgets/&#34;&gt;Access AWS Budgets&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Instructions on how to access the AWS Budgets management interface from the AWS Console via search bar or navigation path.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-create-a-cost-budget&#34;&gt;2. &lt;a href=&#34;http://localhost:1313/HoangNam-workshop-template/5-workshop/5.3-create-budget/5.3.2-create-cost-budget/&#34;&gt;Create a Cost Budget&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Step-by-step guidance to create a Cost Budget based on a predefined configuration template to manage your budget efficiently.&lt;/p&gt;</description>
+      <guid>https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.3-create-budget/</guid>
+      <description>&lt;p&gt;AWS Budgets is utilized to control costs and prevent projects from over-running resources, which helps avoid unexpected charges.&lt;/p&gt;&#xA;&lt;p&gt;In this section, we will perform two main steps:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-access-aws-budgets&#34;&gt;1. &lt;a href=&#34;https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.3-create-budget/5.3.1-access-budgets/&#34;&gt;Access AWS Budgets&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Instructions on how to access the AWS Budgets management interface from the AWS Console via search bar or navigation path.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-create-a-cost-budget&#34;&gt;2. &lt;a href=&#34;https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.3-create-budget/5.3.2-create-cost-budget/&#34;&gt;Create a Cost Budget&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Step-by-step guidance to create a Cost Budget based on a predefined configuration template to manage your budget efficiently.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

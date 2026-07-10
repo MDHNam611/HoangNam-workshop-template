@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mở trang Firewall của Amplify on Báo cáo thực tập</title>
-    <link>http://localhost:1313/HoangNam-workshop-template/vi/5-workshop/5.17-cloudfront-waf-custom/5.17.1-configure-amplify-firewall/</link>
+    <link>https://mdhnam611.github.io/HoangNam-workshop-template/vi/5-workshop/5.17-cloudfront-waf-custom/5.17.1-configure-amplify-firewall/</link>
     <description>Recent content in Mở trang Firewall của Amplify on Báo cáo thực tập</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://localhost:1313/HoangNam-workshop-template/vi/5-workshop/5.17-cloudfront-waf-custom/5.17.1-configure-amplify-firewall/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mdhnam611.github.io/HoangNam-workshop-template/vi/5-workshop/5.17-cloudfront-waf-custom/5.17.1-configure-amplify-firewall/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

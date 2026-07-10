@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Báo cáo thực tập</title>
-    <link>http://localhost:1313/HoangNam-workshop-template/vi/tags/</link>
+    <link>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/</link>
     <description>Recent content in Tags on Báo cáo thực tập</description>
     <generator>Hugo</generator>
     <language>vi</language>
     <lastBuildDate>Sun, 05 Jul 2026 21:00:00 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/HoangNam-workshop-template/vi/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aws</title>
-      <link>http://localhost:1313/HoangNam-workshop-template/vi/tags/aws/</link>
+      <link>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/aws/</link>
       <pubDate>Sun, 05 Jul 2026 21:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/HoangNam-workshop-template/vi/tags/aws/</guid>
+      <guid>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/aws/</guid>
       <description></description>
     </item>
     <item>
       <title>Billing</title>
-      <link>http://localhost:1313/HoangNam-workshop-template/vi/tags/billing/</link>
+      <link>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/billing/</link>
       <pubDate>Sun, 05 Jul 2026 21:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/HoangNam-workshop-template/vi/tags/billing/</guid>
+      <guid>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/billing/</guid>
       <description></description>
     </item>
     <item>
       <title>Budget</title>
-      <link>http://localhost:1313/HoangNam-workshop-template/vi/tags/budget/</link>
+      <link>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/budget/</link>
       <pubDate>Sun, 05 Jul 2026 21:00:00 +0700</pubDate>
-      <guid>http://localhost:1313/HoangNam-workshop-template/vi/tags/budget/</guid>
+      <guid>https://mdhnam611.github.io/HoangNam-workshop-template/vi/tags/budget/</guid>
       <description></description>
     </item>
   </channel>
