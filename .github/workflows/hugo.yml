@@ -3,7 +3,7 @@ name: Deploy Hugo site to Pages
 on:
   push:
     branches:
-      - main  # LƯU Ý: Nếu repo của bạn dùng nhánh 'master' thay vì 'main', hãy sửa chữ này thành 'master'
+      - main  
 
 permissions:
   contents: read
@@ -27,10 +27,11 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: 'latest'
-          extended: true # ĐÂY LÀ DÒNG QUAN TRỌNG NHẤT ĐỂ SỬA LỖI TOCSS
+          extended: true 
 
       - name: Build with Hugo
-        run: hugo --minify --baseURL "https://mdhnam611.github.io/HoangNam-workshop-template/"
+        run: |
+          hugo --minify --baseURL "https://mdhnam611.github.io/HoangNam-workshop-template/"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
