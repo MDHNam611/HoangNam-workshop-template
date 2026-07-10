@@ -38,6 +38,6 @@ Dưới đây là 4 sự kiện tiêu biểu mà em đã tham gia trong suốt k
 
 ### [Event 4: FCAJ Community Day](4.4-Event4/)
 
-&emsp;**Thời gian:** Ngày 27/06/2026[cite: 12]
+&emsp;**Thời gian:** Ngày 27/06/2026
 
-&emsp;**Chủ đề nổi bật:** Tự động hóa vận hành với Deep Response Engine, thiết kế Voice Agents, giải pháp AWS DevOps Agent, tối ưu quản trị nhân sự với AI và thiết lập bảo mật kết nối MCP[cite: 12].
+&emsp;**Chủ đề nổi bật:** Tự động hóa vận hành với Deep Response Engine, thiết kế Voice Agents, giải pháp AWS DevOps Agent, tối ưu quản trị nhân sự với AI và thiết lập bảo mật kết nối MCP.

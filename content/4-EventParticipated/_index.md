@@ -38,6 +38,6 @@ Below are the 4 main events I attended during the internship:
 
 ### [Event 4: FCAJ Community Day](4.4-Event4/)
 
-&emsp;**Date:** June 27, 2026[cite: 12]
+&emsp;**Date:** June 27, 2026
 
-&emsp;**Key Topics:** Autonomous operations via the Deep Response Engine, building Voice Agents, AWS DevOps Agent solutions, AI-powered workforce planning, and secure MCP connectivity[cite: 12].
+&emsp;**Key Topics:** Autonomous operations via the Deep Response Engine, building Voice Agents, AWS DevOps Agent solutions, AI-powered workforce planning, and secure MCP connectivity.
