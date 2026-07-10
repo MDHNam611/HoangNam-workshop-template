@@ -6,103 +6,103 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
+# Bài thu hoạch “AWS First Cloud AI Journey - FCAJ Community Day”
 
-# Báo cáo tóm tắt: "FCAJ Community Day – AI & Cloud Conference"
+### Mục Đích Của Sự Kiện
 
-### Mục tiêu của sự kiện
+- Chia sẻ kiến thức về vai trò của ngữ cảnh (context) trong việc ứng dụng AI hiệu quả.
+- Giới thiệu trợ lý AI thông minh Amazon Quick và các tính năng hỗ trợ phân tích dữ liệu, tự động hóa quy trình.
+- Giới thiệu các giải pháp bảo mật, tối ưu chi phí và nâng cao hiệu suất hạ tầng với Amazon CloudFront.
+- Chia sẻ kinh nghiệm thực chiến từ cuộc thi Hackathon (LotusHacks) để xây dựng sản phẩm từ ý tưởng đến thực tế.
+- Giải mã tính chất phi định tính (Non-Determinism) của các thiết lập LLM và cách giảm thiểu.
+- Giới thiệu kiến trúc Multi-Agent cấp doanh nghiệp thông qua trường hợp chấm điểm tín dụng Startup.
 
-- Cập nhật những xu hướng mới nhất về Trí tuệ nhân tạo (AI) và Điện toán đám mây (Cloud Computing).
-- Giới thiệu các dịch vụ AWS hỗ trợ xây dựng ứng dụng AI hiện đại.
-- Chia sẻ kinh nghiệm triển khai AI trong doanh nghiệp thông qua các tình huống thực tế.
-- Tạo cơ hội giao lưu giữa sinh viên, cộng đồng AWS và các chuyên gia công nghệ.
+### Danh Sách Diễn Giả
 
-### Thông tin sự kiện
+- **Vy Lam** - Senior Business Systems Analyst, VPBank
+- **Thao Nguyen** - GenAI Engineer, VIB
+- **Mai Nguyen** - GenAI Engineer, VIB
+- **Uyen Le** - GenAI Engineer, VIB
+- **Anh Pham** - Cloud Consultant, G-AsiaPacific Vietnam
+- **Thinh Nguyen** - Devops Engineer, FCAJ
+- **Tinh Truong** - Platform Engineer, GoTymeX
+- **Duc Dao** - Solutions Architect, Cloud Kinetics
 
-- **Thời gian:** 09:00 – 12:00, ngày 23 tháng 5
-- **Địa điểm:** Tầng 26, Bitexco Financial Tower, Thành phố Hồ Chí Minh
-- **Đơn vị tổ chức:** FCAJ Community
+### Nội Dung Nổi Bật
 
-### Nội dung nổi bật
+#### 1. Context Is Everything: Making AI Actually Work for You (Ngữ cảnh là tất cả: Cách làm cho AI thực sự hoạt động hiệu quả)
+- **Diễn giả:** Tinh Truong (Platform Engineer, GoTymeX)
+- **Tại sao AI thất bại nếu thiếu ngữ cảnh:** Hiểu đúng bản chất của "ngữ cảnh" và tầm quan trọng của nó trong việc giúp AI hoạt động chính xác.
+- **Tiến trình phát triển của AI:** Từ thiết kế prompt cơ bản đến tích hợp bộ nhớ (khái niệm "Second AI Brain" - Bộ não AI thứ hai).
+- **Tối ưu kết quả:** Cách thiết lập tư duy và các mẹo thực tế để cung cấp ngữ cảnh tốt hơn cho AI.
+- **Định hướng sự nghiệp:** Cách sinh viên và lập trình viên trẻ có thể bắt đầu xây dựng ứng dụng với AI cùng phiên thảo luận Q&A.
 
-#### Context Is Everything: Making AI Actually Work for You
+#### 2. Friendly AI Assistant with Amazon Quick (Trợ lý AI thân thiện với Amazon Quick)
+- **Diễn giả:** Anh Pham (Cloud Consultant, G-AsiaPacific Vietnam)
+- **Quick Chat Agent:** Trợ lý AI hỗ trợ khám phá dữ liệu và phân tích chuyên sâu.
+- **Quick Flows:** Tạo lập các luồng công việc thông minh bằng ngôn ngữ tự nhiên mà không cần viết code.
+- **Quick Spaces:** Không gian làm việc cộng tác giúp chuyển giao kiến thức cá nhân thành tri thức của toàn đội ngũ.
+- **Quick Sight:** Xây dựng bảng điều khiển (dashboard) và báo cáo nhanh chóng từ dữ liệu thô thông qua ngôn ngữ tự nhiên.
 
-- Giải thích vì sao AI không thể hoạt động hiệu quả nếu thiếu ngữ cảnh (Context).
-- Giới thiệu khái niệm **Second AI Brain**, giúp AI ghi nhớ và sử dụng thông tin trong quá trình làm việc.
-- Chia sẻ các phương pháp xây dựng Prompt và Context để tăng chất lượng phản hồi của AI.
-- Định hướng nghề nghiệp dành cho sinh viên muốn phát triển trong lĩnh vực AI.
+#### 3. From Edge To Origin: CloudFront as Your Foundation (Từ Rìa đến Nguồn: CloudFront làm nền tảng)
+- **Diễn giả:** Thinh Nguyen (Devops Engineer, FCAJ)
+- **Amazon CloudFront cho mọi khối lượng công việc:** Cách ứng dụng CloudFront linh hoạt cho các loại hệ thống khác nhau.
+- **Tối ưu chi phí:** Các chiến lược tối ưu hóa chi phí vận hành mạng phân phối nội dung với CloudFront.
+- **Khả năng bảo mật:** Các tính năng bảo mật tích hợp mạnh mẽ bảo vệ ứng dụng ngay từ rìa mạng.
+- **Tăng cường hiệu suất và độ tin cậy:** Cơ chế cải thiện tốc độ truyền tải dữ liệu và đảm bảo tính sẵn sàng cao của dịch vụ.
 
-#### 36 Hours with LotusHacks – Building UTMorpho from Idea to Reality
+#### 4. 36 hrs với LotusHacks – Xây dựng UTMorpho từ ý tưởng đến thực tế
+- **Diễn giả:** Thao Nguyen, Mai Nguyen, Uyen Le (GenAI Engineers, VIB)
+- **Lý do tham gia LotusHacks:** Động lực và mục tiêu của đội ngũ khi bước vào cuộc thi.
+- **Hành trình từ số 0 đến ý tưởng:** Quá trình động não và sàng lọc ý tưởng dưới áp lực thời gian.
+- **Xác định vấn đề:** Cách định hình bài toán thực tế và thiết kế sản phẩm UTMorpho.
+- **36 giờ lập trình áp lực:** Kinh nghiệm quản lý thời gian, phân chia công việc trong sprint phát triển căng thẳng.
+- **Thách thức và bước ngoặt:** Những sai lầm, thất bại gặp phải và cách đội ngũ xoay chuyển tình thế.
+- **Demo UTMorpho:** Tổng quan về sản phẩm và phần trình diễn thực tế.
 
-- Chia sẻ hành trình tham gia cuộc thi LotusHacks.
-- Quy trình hình thành ý tưởng và phát triển sản phẩm chỉ trong 36 giờ.
-- Những khó khăn, thất bại và kinh nghiệm rút ra trong quá trình phát triển.
-- Trình diễn sản phẩm UTMorpho sau khi hoàn thành.
+#### 5. Non-Determinism of "Deterministic" LLM Settings (Tính phi định tính của các thiết lập LLM "định tính")
+- **Diễn giả:** Duc Dao (Solutions Architect, Cloud Kinetics)
+- **Cách LLM lựa chọn token tiếp theo:** Cơ chế xác suất trong quá trình sinh văn bản của các mô hình ngôn ngữ lớn.
+- **Giả định phổ biến:** Suy nghĩ cho rằng thiết lập `Temperature = 0` sẽ đảm bảo tính định tính (luôn cho ra cùng một kết quả).
+- **Thực tế:** Các kỹ thuật tối ưu hóa phần cứng và suy luận (inference optimizations) làm thay đổi tính định tính này.
+- **Tác động thực tế:** Những ảnh hưởng của hiện tượng phi định tính đối với các ứng dụng thực tế.
+- **Chiến lược giảm thiểu:** Các phương pháp kiểm soát và hạn chế sự sai lệch kết quả đầu ra của LLM.
 
-#### From Edge To Origin: CloudFront as Your Foundation
+#### 6. Enterprise-Grade Multi-Agent System (Hệ thống Multi-Agent cấp doanh nghiệp)
+- **Diễn giả:** Vy Lam (Senior Business Systems Analyst, VPBank)
+- **Sự bất tương thích về mặt cấu trúc:** Khoảng cách giữa hệ thống dữ liệu ngân hàng truyền thống và dữ liệu của các doanh nghiệp startup.
+- **Hệ thống Single Agent:** Phân tích khi nào nên và không nên sử dụng thiết lập một Agent duy nhất.
+- **Mô hình Multi-Agent:** Sức mạnh của sự phối hợp giữa nhiều Agent chuyên biệt.
+- **Bản phác thảo Hội đồng Tín dụng Ảo:** Cách thiết kế một hệ thống đa tác nhân mô phỏng quy trình phê duyệt tín dụng thực tế.
+- **Hành lang an toàn & Tuân thủ:** Thiết lập các rào cản kỹ thuật đảm bảo tuân thủ quy định tài chính.
+- **Hiệu quả đầu tư (ROI) & Lộ trình triển khai:** Đo lường giá trị vận hành và các bước đưa hệ thống vào thực tế.
 
-- Giới thiệu Amazon CloudFront và các trường hợp sử dụng phổ biến.
-- Tối ưu hiệu năng khi phân phối nội dung trên toàn cầu.
-- Các tính năng bảo mật của CloudFront.
-- Phương pháp tối ưu chi phí và nâng cao tính sẵn sàng của hệ thống.
+---
 
-#### Friendly AI Assistant with Amazon Quick
+### Những Gì Học Được
 
-- Khám phá dữ liệu bằng trợ lý AI.
-- Tạo quy trình làm việc thông minh bằng ngôn ngữ tự nhiên mà không cần lập trình.
-- Chia sẻ dữ liệu và cộng tác thông qua Quick Spaces.
-- Tạo Dashboard và báo cáo từ dữ liệu bằng AI.
+*Sau buổi event, em học được rất nhiều điều bổ ích đến từ anh chị, đặc biệt là kiến thức về cách tối ưu chi phí với CloudFront và cách quản lý thời gian, phân bổ thời gian hợp lý khi làm việc nhóm, và nhiều điều bổ ích khác.*
 
-#### Non-Determinism of "Deterministic" LLM Settings
+---
 
-- Giải thích cách LLM lựa chọn token tiếp theo.
-- Phân tích vì sao thiết lập **Temperature = 0** vẫn có thể tạo ra kết quả khác nhau.
-- Những ảnh hưởng trong thực tế khi triển khai hệ thống AI.
-- Một số giải pháp giúp giảm sự khác biệt trong kết quả sinh.
+### Ứng Dụng Vào Công Việc
 
-#### Enterprise-Grade Multi-Agent System: The Case of Startup Credit Scoring
+*Về việc ứng dụng các kiến thức mà em đã nghe, em nghĩ là em có thể ứng dụng được cách quản lý thời gian, phân bổ thời gian, công việc hợp lý khi làm việc nhóm và có thể tối ưu chi phí khi sử dụng CloudFront. Các kiến thức còn lại khá mới mẻ đối với em, vì vậy có lẽ em sẽ tìm hiểu và vận dụng trong thời gian tới.*
 
-- Giới thiệu mô hình Multi-Agent trong hệ thống AI doanh nghiệp.
-- Ví dụ về hệ thống đánh giá tín dụng dành cho Startup.
-- Cơ chế Guardrails giúp kiểm soát hành vi của AI.
-- Vai trò của Compliance trong việc triển khai AI vào môi trường Production.
-- Lộ trình triển khai AI trong doanh nghiệp nhằm tối ưu hiệu quả đầu tư.
+---
 
-### Những kiến thức nổi bật thu nhận được
+### Trải nghiệm trong event
 
-#### Trí tuệ nhân tạo (AI)
+*Khi tham gia event FCAJ Community Day hôm nay, em cảm thấy rất hào hứng và vui khi được nghe các anh chị chia sẻ về các kiến thức thực tế khi sử dụng AI để làm việc. Mặc dù vẫn còn hơi ngại và chưa dám đặt câu hỏi nhưng em cũng đã học hỏi được rất nhiều điều từ event, và em cũng đã có cơ hội tiếp xúc và trò chuyện với rất nhiều bạn tham gia khác. Mặc dù event này là lần thứ hai em tham gia nhưng em cảm giác như là lần đầu vậy, hồi hộp và mong chờ.*
 
-- Context đóng vai trò quan trọng hơn việc chỉ tập trung vào Prompt.
-- AI hiện đại cần có khả năng ghi nhớ, suy luận và quản lý ngữ cảnh.
-- Multi-Agent đang trở thành xu hướng mới trong việc xây dựng các hệ thống AI phức tạp.
+---
 
-#### Điện toán đám mây (Cloud Computing)
+#### Một số hình ảnh khi tham gia sự kiện
 
-- Amazon CloudFront không chỉ là CDN mà còn giúp tăng hiệu năng, bảo mật và khả năng mở rộng.
-- Các dịch vụ AI trên AWS hỗ trợ đơn giản hóa quá trình phân tích dữ liệu và xây dựng ứng dụng.
+![Mai Đức Hoàng Nam tham gia sự kiện FCAJ Community Day](/images/4-EventParticipated/event-2.png)
 
-#### AI trong doanh nghiệp
+![Hình ảnh bài trình bày FCAJ Community Day 1](/images/4-EventParticipated/event-2.1.png)
 
-- Việc triển khai AI cần đi kèm các cơ chế Guardrails và Compliance.
-- Một hệ thống AI tốt không chỉ cần mô hình mạnh mà còn phải đảm bảo khả năng quản trị và kiểm soát.
+![Hình ảnh bài trình bày FCAJ Community Day 2](/images/4-EventParticipated/event-2.2.png)
 
-### Áp dụng vào công việc
-
-- Áp dụng kỹ thuật xây dựng Context để nâng cao chất lượng phản hồi của AI.
-- Tìm hiểu kiến trúc Multi-Agent nhằm phục vụ các dự án AI trong tương lai.
-- Ứng dụng Amazon CloudFront để tối ưu hiệu năng cho các ứng dụng Web.
-- Nghiên cứu các cơ chế Guardrails khi triển khai AI vào môi trường Production.
-- Tiếp tục tìm hiểu các dịch vụ AI của AWS để phục vụ quá trình học tập và thực hiện Workshop.
-
-### Trải nghiệm tại sự kiện
-
-Tham gia **FCAJ Community Day** mang lại cho mình nhiều kiến thức thực tế về AI và AWS Cloud. Các phiên chia sẻ không chỉ giới thiệu lý thuyết mà còn trình bày nhiều tình huống triển khai thực tế trong doanh nghiệp, giúp mình hiểu rõ hơn về cách các tổ chức đang ứng dụng AI vào sản phẩm và quy trình vận hành.
-
-Bên cạnh đó, mình có cơ hội tìm hiểu thêm về Amazon CloudFront, Amazon Quick, các mô hình Multi-Agent cũng như những thách thức khi triển khai các hệ thống AI trong môi trường thực tế. Đặc biệt, phần trình bày về Context trong AI giúp mình nhận ra rằng chất lượng của một hệ thống AI không chỉ phụ thuộc vào mô hình mà còn phụ thuộc rất lớn vào dữ liệu, ngữ cảnh và cách quản lý thông tin.
-
-Ngoài việc học hỏi kiến thức chuyên môn, sự kiện còn là cơ hội để giao lưu với cộng đồng AWS, gặp gỡ các diễn giả và trao đổi với những bạn sinh viên có cùng định hướng phát triển trong lĩnh vực Cloud và AI.
-
-#### Một số hình ảnh tại sự kiện
-
-
-
-> Nhìn chung, FCAJ Community Day là một sự kiện bổ ích, giúp mình cập nhật nhiều xu hướng mới về AI và AWS Cloud, đồng thời mở rộng góc nhìn về cách xây dựng các hệ thống AI hiện đại đáp ứng yêu cầu của doanh nghiệp.
+> *Cuối cùng, em thấy event hôm nay là một event cực kỳ bổ ích, event này giúp em biết được thêm nhiều kiến thức mới, và cũng có cơ hội để giao lưu với các bạn tham gia khác.*

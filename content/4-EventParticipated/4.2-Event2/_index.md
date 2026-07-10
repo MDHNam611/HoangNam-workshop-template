@@ -6,95 +6,103 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-
-# Summary Report: "FCAJ Community Day – AI & Cloud Conference"
+# Summary Report: “AWS First Cloud AI Journey - FCAJ Community Day”
 
 ### Event Objectives
 
-- Explore practical applications of Artificial Intelligence in education and enterprise.
-- Learn modern AWS cloud technologies and best practices.
-- Understand the latest trends in Generative AI, Large Language Models (LLMs), and Multi-Agent Systems.
-- Connect students with AWS experts and the technology community.
+- Share knowledge on the role of context in making AI work effectively.
+- Introduce the smart AI assistant Amazon Quick and its capabilities in data exploration and workflow automation.
+- Present solutions for security, cost optimization, and performance enhancement at the edge using Amazon CloudFront.
+- Share practical experience from a 36-hour Hackathon (LotusHacks) to build a product from idea to reality.
+- Demystify the non-determinism of "deterministic" LLM settings and outline mitigation strategies.
+- Introduce enterprise-grade Multi-Agent systems using a startup credit scoring case study.
 
-### Event Information
+### Speakers
 
-- **Date:** 09:00 – 12:00, May 23, 2026
-- **Location:** Floor 26, Bitexco Financial tower, Ho Chi Minh City
-- **Organizer:** FCAJ Community
+- **Vy Lam** - Senior Business Systems Analyst, VPBank
+- **Thao Nguyen** - GenAI Engineer, VIB
+- **Mai Nguyen** - GenAI Engineer, VIB
+- **Uyen Le** - GenAI Engineer, VIB
+- **Anh Pham** - Cloud Consultant, G-AsiaPacific Vietnam
+- **Thinh Nguyen** - Devops Engineer, FCAJ
+- **Tinh Truong** - Platform Engineer, GoTymeX
+- **Duc Dao** - Solutions Architect, Cloud Kinetics
 
 ### Key Highlights
 
-#### Context Is Everything: Making AI Actually Work for You
+#### 1. Context Is Everything: Making AI Actually Work for You
+- **Speaker:** Tinh Truong (Platform Engineer, GoTymeX)
+- **Why AI fails without context:** Understanding what "context" really means and why it is critical for accurate AI performance.
+- **The evolution of AI:** Transitioning from basic prompt engineering to persistent memory integration (the "Second AI Brain" concept).
+- **Optimizing outcomes:** Practical mindsets and actionable tips on how to feed better context to AI models.
+- **Career development:** How students and young developers can start building with AI, concluded with a Q&A session.
 
-- Understanding why AI requires context instead of relying only on prompts.
-- Exploring the concept of AI memory and the "Second AI Brain".
-- Practical techniques for improving AI responses.
-- Career advice for students interested in AI.
+#### 2. Friendly AI Assistant with Amazon Quick
+- **Speaker:** Anh Pham (Cloud Consultant, G-AsiaPacific Vietnam)
+- **Quick Chat Agent:** AI assistants designed for exploring data and analyzing insights.
+- **Quick Flows:** Building intelligent automated workflows using natural language without writing code.
+- **Quick Spaces:** Collaborative shared environments that turn individual insights into collective organizational knowledge.
+- **Quick Sight:** Generating rich dashboards and analytical reports from raw data using natural language.
 
-#### 36 Hours with LotusHacks
+#### 3. From Edge To Origin: CloudFront as Your Foundation
+- **Speaker:** Thinh Nguyen (Devops Engineer, FCAJ)
+- **Amazon CloudFront for every workload:** How to leverage CloudFront flexibly across various system architectures.
+- **Cost optimization:** Strategies to minimize data transfer and operational costs when deploying CloudFront.
+- **Security capabilities:** Utilizing edge-native security features to protect applications against web threats and DDoS attacks.
+- **Enhanced performance & reliability:** Speeding up content delivery globally while maintaining high system availability.
 
-- Sharing the journey from idea to product within a 36-hour hackathon.
-- Product design, rapid development, and lessons learned from failures.
-- Demonstration of the UTMorpho project.
+#### 4. 36 hrs with LotusHacks – Building UTMorpho from Idea to Reality
+- **Speakers:** Thao Nguyen, Mai Nguyen, Uyen Le (GenAI Engineers, VIB)
+- **Why we joined LotusHacks:** The team's motivation, expectations, and goals heading into the hackathon.
+- **From zero to idea:** The brainstorming and selection process under strict time constraints.
+- **Defining the problem:** Shaping a real-world problem and designing the UTMorpho solution.
+- **Building under pressure:** Time management, task delegation, and prototyping during a 36-hour sprint.
+- **Challenges & turning points:** Failures, bottlenecks, and how the team pivoted successfully.
+- **UTMorpho demo:** Product overview and live demonstration.
 
-#### From Edge to Origin: CloudFront as Your Foundation
+#### 5. Non-Determinism of "Deterministic" LLM Settings
+- **Speaker:** Duc Dao (Solutions Architect, Cloud Kinetics)
+- **How LLMs select the next token:** The underlying probabilistic mechanics of text generation in Large Language Models.
+- **The common assumption:** The misconception that setting `Temperature = 0` guarantees fully deterministic output.
+- **The reality:** How hardware parallelization and low-level inference optimizations introduce non-determinism.
+- **Practical impact:** The real-world consequences of non-determinism on production-grade applications.
+- **Mitigation strategies:** Practical techniques to control, stabilize, and validate LLM outputs.
 
-- Amazon CloudFront architecture and use cases.
-- Improving performance, security, and reliability.
-- CloudFront cost optimization techniques.
+#### 6. Enterprise-Grade Multi-Agent System: The Case of Startup Credit Scoring
+- **Speaker:** Vy Lam (Senior Business Systems Analyst, VPBank)
+- **Structural mismatch:** The gap between rigid traditional banking data models and dynamic startup financial profiles.
+- **Single Agent vs Multi-Agent:** When to stick to a single agent and when it falls short.
+- **The Multi-Agent paradigm:** The power of combining specialized agents collaborating to solve complex tasks.
+- **Blueprint of a Virtual Credit Committee:** Designing a multi-agent system that mimics a real-world credit approval process.
+- **Guardrails & Compliance:** Implementing technical constraints to ensure compliance with strict financial regulations.
+- **ROI & Implementation roadmap:** Measuring operational value and outlining the path to production.
 
-#### Friendly AI Assistant with Amazon Quick
-
-- AI-powered data exploration.
-- Natural language workflow creation.
-- Collaborative workspaces.
-- Dashboard and report generation.
-
-#### Non-Determinism of "Deterministic" LLM Settings
-
-- How LLMs generate the next token.
-- Why Temperature = 0 does not always produce identical outputs.
-- Practical mitigation strategies.
-
-#### Enterprise-Grade Multi-Agent System
-
-- Startup credit scoring architecture.
-- Multi-Agent collaboration.
-- Guardrails and compliance.
-- Enterprise implementation roadmap.
+---
 
 ### Key Takeaways
 
-#### Artificial Intelligence
+*After the event, I learned a lot of useful things from the speakers, especially about optimizing costs with CloudFront, managing and allocating time effectively when working in teams, and many other beneficial topics.*
 
-- Context significantly improves AI performance.
-- Modern AI systems require memory, reasoning, and governance.
-- Multi-Agent architecture is becoming increasingly important for enterprise applications.
-
-#### Cloud Computing
-
-- Amazon CloudFront provides more than content delivery by enhancing security, performance, and reliability.
-- AI-powered AWS services simplify data analysis and workflow automation.
-
-#### Enterprise AI
-
-- Guardrails and compliance should be considered when deploying AI into production.
-- Enterprise AI requires both technical architecture and governance.
+---
 
 ### Applying to Work
 
-- Apply prompt engineering techniques by providing richer context.
-- Explore Multi-Agent architecture for future AI projects.
-- Learn CloudFront optimization for web applications.
-- Consider AI governance and guardrails in production systems.
+*Regarding the application of the knowledge I heard, I think I can apply time management and effective task and time allocation when working in teams, as well as optimize costs when using CloudFront. The remaining knowledge is quite new to me, so I will probably research and apply it in the future.*
+
+---
 
 ### Event Experience
 
-Participating in **FCAJ Community Day** provided valuable insights into current AI and cloud technologies. Through presentations from AWS experts and community speakers, I gained a better understanding of enterprise AI architecture, CloudFront optimization, Amazon Quick, and Multi-Agent systems.
+*When participating in today's FCAJ Community Day event, I felt very excited and happy to hear the speakers share real-world knowledge on using AI for work. Although I was still a bit shy and didn't dare to ask questions, I learned a lot from the event and had the opportunity to connect and chat with many other participants. Even though this was the second event I attended, it felt like the first time—exciting and highly anticipated.*
 
-The event also helped me understand that successful AI applications require not only powerful models but also appropriate context, governance, and security. In addition, interacting with students and industry professionals broadened my perspective on practical AI adoption and future career development.
+---
 
-#### Some event photos
+#### Event Photos
 
+![Mai Duc Hoang Nam participating in FCAJ Community Day](/images/4-EventParticipated/event-2.png)
 
-> Overall, the event provided practical knowledge about AI and AWS cloud technologies while helping me better understand how enterprise organizations are adopting Generative AI solutions.
+![FCAJ Community Day Presentation 1](/images/4-EventParticipated/event-2.1.png)
+
+![FCAJ Community Day Presentation 2](/images/4-EventParticipated/event-2.2.png)
+
+> *Finally, I found today's event extremely beneficial; it helped me acquire a lot of new knowledge and also gave me the opportunity to network with other participants.*

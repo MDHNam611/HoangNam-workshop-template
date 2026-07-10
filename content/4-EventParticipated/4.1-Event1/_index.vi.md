@@ -1,14 +1,14 @@
 ---
-title: "AWS First Cloud Journey - Workshop"
+title: "FCAJ Community Day"
 date: 2026-05-09
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Bài thu hoạch “AWS First Cloud Journey - Workshop”
+# Bài thu hoạch “AWS First Cloud Journey - FCAJ Community Day”
 
-### Mục Địch Của Sự Kiện
+### Mục Đích Của Sự Kiện
 
 - Tìm hiểu các chiến lược học tập thông qua trò chơi hóa (gamification) để xây dựng thói quen hiệu quả và duy trì chuỗi học tập liên tục.
 - Học hỏi các kỹ thuật kỹ nghệ gợi ý (prompt engineering) từ cơ bản đến nâng cao nhằm tối ưu hóa chất lượng câu trả lời của các mô hình ngôn ngữ lớn (LLM).
@@ -88,5 +88,13 @@ pre: " <b> 4.1. </b> "
 *Lần đầu tiên em tham gia event này em thấy khá là hồi hộp và lo lắng một chút vì em khá là ngại khi có nhiều người như thế này, nhưng sau khi trải nghiệm thì em nghĩ em muốn lên thêm nữa, mặc dù em chưa dám đứng lên để chia sẻ các kiến thức đến với mọi người nhưng em nghĩ tham gia và nghe cũng giúp ích cho bản thân nhiều hơn.*
 
 ---
+
+#### Một số hình ảnh khi tham gia sự kiện
+
+![Mai Đức Hoàng Nam tham gia sự kiện Workshop](/images/4-EventParticipated/event-1.png)
+
+![Hình ảnh bài trình bày tại sự kiện](/images/4-EventParticipated/event-1.1.png)
+
+![Hình ảnh hoạt động tại sự kiện](/images/4-EventParticipated/event-1.2.png)
 
 > *Nhận xét của em về lần đầu tiên tham gia event này thì nó là một trải nghiệm tuyệt vời và đáng để tham gia, em mong có thể tham gia các event tiếp theo để được nghe thêm nhiều kiến thức và kinh nghiệm của các anh chị đi trước.*

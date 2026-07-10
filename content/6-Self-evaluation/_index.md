@@ -6,10 +6,6 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
-
 During my internship at **Amazon Web Services Viet Nam Company Limited** from **17/04/2026** to **10/07/2026**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
 I participated in **developing the Smart Home Energy Waste Monitoring & Alert System on AWS**, through which I improved my skills in **getting familiar with cloud services, basic programming, deploying websites, writing technical reports, and teamwork**.  
 
