@@ -15,9 +15,9 @@ chapter: false
 - **Trường:** Trường Đại học Công nghệ TP.HCM - HUTECH
 - **Ngành:** Công nghệ thông tin
 - **Lớp:** AWS042026
-- **Công ty thực tập:** Công ty TNHH Amazon Web Services Viet Nam
+- **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 - **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
-- **Thời gian thực tập:** 17/04/2026 → 10/07/2026
+- **Thời gian thực tập:** 17/04/2026 → 30/07/2026
 
 ![Ảnh đại diện](/images/anh-mat.png)
 
