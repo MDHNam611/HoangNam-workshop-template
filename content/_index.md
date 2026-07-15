@@ -9,7 +9,7 @@ chapter: false
 
 ## Student Information
 
-- **Full Name:** Mai Đức Hoàng Nam
+- **Full Name:** Mai Duc Hoang Nam
 - **Phone Number:** 0963911247
 - **Email:** maiduchoangnam@gmail.com
 - **University:** Ho Chi Minh City University of Technology
