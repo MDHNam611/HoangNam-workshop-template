@@ -14,7 +14,7 @@ chapter: false
 - **Email:** maiduchoangnam@gmail.com
 - **University:** Ho Chi Minh City University of Technology
 - **Major:** Information Technology
-- **Class:** AWS042026
+- **Class:** 22DTHE2
 - **Internship Company:** Amazon Web Services Viet Nam Company Limited
 - **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 - **Internship Duration:** 17/04/2026 - 30/07/2026
