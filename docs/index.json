@@ -4,7 +4,7 @@
 	"title": "Internship Report",
 	"tags": [],
 	"description": "",
-	"content": "Internship Report Student Information Full Name: Mai Đức Hoàng Nam Phone Number: 0963911247 Email: maiduchoangnam@gmail.com University: Ho Chi Minh City University of Technology Major: Information Technology Class: AWS042026 Internship Company: Amazon Web Services Viet Nam Company Limited Internship Position: Workforce Bootcamp - First Cloud AI Journey Internship Duration: 17/04/2026 - 10/07/2026 Report Content Worklog Proposal BlogsPosted Events Participated Workshop Self-evaluation Sharing and Feedback "
+	"content": "Internship Report Student Information Full Name: Mai Đức Hoàng Nam Phone Number: 0963911247 Email: maiduchoangnam@gmail.com University: Ho Chi Minh City University of Technology Major: Information Technology Class: AWS042026 Internship Company: Amazon Web Services Viet Nam Company Limited Internship Position: Workforce Bootcamp - First Cloud AI Journey Internship Duration: 17/04/2026 - 30/07/2026 Report Content Worklog Proposal BlogsPosted Events Participated Workshop Self-evaluation Sharing and Feedback Link Demo "
 },
 {
 	"uri": "https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.7-lambda-virtual-sensor/5.7.1-create-function.md/",
@@ -761,6 +761,13 @@
 	"tags": [],
 	"description": "",
 	"content": "The energy-api-handler only needs to download the object based on an objectKey retrieved from metadata in DynamoDB. Therefore, the required permission is: s3:GetObject. (Do not grant s3:PutObject, s3:DeleteObject, s3:ListAllMyBuckets, or s3:*. AWS identifies s3:GetObject as the mandatory permission to read an object without specifying a version ID).\nOpen IAM Role In the energy-api-handler Lambda, select: Configuration -\u0026gt; Permissions. Under Execution role, click the blue role name. The name should look similar to: energy-api-handler-role-xxxxxxxx. IAM will open in a new tab. Create a Separate Inline Policy for S3 Click Add permissions -\u0026gt; Create inline policy. Select the JSON tab. Delete the sample JSON. Paste the following policy: { \u0026ldquo;Version\u0026rdquo;: \u0026ldquo;2012-10-17\u0026rdquo;, \u0026ldquo;Statement\u0026rdquo;: [ { \u0026ldquo;Sid\u0026rdquo;: \u0026ldquo;ReadGeneratedEnergyReports\u0026rdquo;, \u0026ldquo;Effect\u0026rdquo;: \u0026ldquo;Allow\u0026rdquo;, \u0026ldquo;Action\u0026rdquo;: [ \u0026ldquo;s3:GetObject\u0026rdquo; ], \u0026ldquo;Resource\u0026rdquo;: \u0026ldquo;arn:aws:s3:::energy-waste-report-347685737655-ap-southeast-1/*\u0026rdquo; } ] }\nNote the /* at the end of the ARN (arn:aws:s3:::energy-waste-report-347685737655-ap-southeast-1/*). It represents the objects inside the bucket. The execution role is the mechanism that grants Lambda permission to access other AWS resources; thus, the S3 read permission must reside in the role of the energy-api-handler.\nClick Next. For Policy name, enter: energy-api-handler-s3-read-policy Click Create policy. Expected Results The execution role must have exactly three policies attached:\nAWSLambdaBasicExecutionRole energy-api-handler-dynamodb-read-policy energy-api-handler-s3-read-policy "
+},
+{
+	"uri": "https://mdhnam611.github.io/HoangNam-workshop-template/8-linkdemo/",
+	"title": "Link Demo",
+	"tags": [],
+	"description": "",
+	"content": "Link Video Demo: https://drive.google.com/drive/folders/10XQNVaO9AZtIU9Ekfz7rjhWBC09gREjp\n"
 },
 {
 	"uri": "https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.8-aws-iot-core/",

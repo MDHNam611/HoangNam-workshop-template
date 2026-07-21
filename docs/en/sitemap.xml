@@ -1407,6 +1407,19 @@
                 href="https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.14-s3-report-bucket/5.14.7-grant-s3-permission/"
                 />
   </url><url>
+    <loc>https://mdhnam611.github.io/HoangNam-workshop-template/8-linkdemo/</loc>
+    <lastmod>2026-07-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://mdhnam611.github.io/HoangNam-workshop-template/vi/8-linkdemo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mdhnam611.github.io/HoangNam-workshop-template/8-linkdemo/"
+                />
+  </url><url>
     <loc>https://mdhnam611.github.io/HoangNam-workshop-template/5-workshop/5.8-aws-iot-core/</loc>
     <lastmod>2026-07-05T00:00:00+00:00</lastmod>
     <xhtml:link
