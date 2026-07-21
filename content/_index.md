@@ -9,12 +9,12 @@ chapter: false
 
 ## Student Information
 
-- **Full Name:** Mai Đức Hoàng Nam
+- **Full Name:** Mai Duc Hoang Nam
 - **Phone Number:** 0963911247
 - **Email:** maiduchoangnam@gmail.com
 - **University:** Ho Chi Minh City University of Technology
 - **Major:** Information Technology
-- **Class:** AWS042026
+- **Class:** 22DTHE2
 - **Internship Company:** Amazon Web Services Viet Nam Company Limited
 - **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
 - **Internship Duration:** 17/04/2026 - 30/07/2026
